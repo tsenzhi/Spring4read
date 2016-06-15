@@ -1,2 +1,2 @@
 # Spring4read
-Just read source code of Spring
+Just read source code of Spring.
